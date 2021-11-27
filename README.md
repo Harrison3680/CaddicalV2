@@ -13,8 +13,8 @@ Then run ```git clone https://github.com/Harrison3680/CaddicalV2 Caddical``` and
 In config.json and in the Caddical directory input:
 ```json
 {
-  "token": "Get your custom bots token from https://discord.com/developers/applications",
-  "prefix": "The thing your bot will respond too"
+  "TOKEN": "Get your custom bots token from https://discord.com/developers/applications",
+  "PREFIX": "The thing your bot will respond too"
 }
 ```
 
